@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'robofont';
+    font-style: normal;
+    font-weight: normal;
+    src: local('robofont'), url('robofont.woff') format('woff');
+    }
+
+    h1{
+        font-family: 'robofont';
+        font-weight: 200;
+        color: #0ccac4;
+
+    }
